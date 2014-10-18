@@ -35,7 +35,7 @@ module.exports = (robot) ->
 
     return if req.body.zen? # initial ping
     push = req.body
-    console.log "push: #{push}"
+    console.log "push: " + JSON.stringify push
 
     try
       if push.commits.length > 0
