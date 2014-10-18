@@ -3,6 +3,7 @@
 	"shipit.coffee",
 	"github-commits.coffee",
 	"hackernews.coffee",
-	"chuck-norris.coffee"
+	"chuck-norris.coffee",
+	"bitcoin.coffee"
 
 ]
